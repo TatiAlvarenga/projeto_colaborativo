@@ -1,3 +1,6 @@
 Primeira linha do projeto no repositorio local (ecsrito pela usuaria Tatiane)
 
-Segunda linha do projeto após a criação do repositório 
+Segunda linha do projeto após a criação do repositório
+
+Terceira linha de código pois o procedimento do git clone
+deu erro, envio git hub
